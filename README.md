@@ -115,6 +115,3 @@
 <footer>
   <p>© 2025 Muhammad Rizqi Rahman</p>
 </footer>
-
-</body>
-</html>
