@@ -82,7 +82,7 @@ nav a:hover::after {
 }
 
 .hero-photo {
-  width: 260px;
+  width: 500px;
   aspect-ratio: 3 / 4;
   border-radius: 22px;
   overflow: hidden;
